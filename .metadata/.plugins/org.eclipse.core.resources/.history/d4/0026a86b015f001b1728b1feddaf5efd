@@ -1,0 +1,11 @@
+package com.javafile;
+
+public class Filewriterdemo {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}
